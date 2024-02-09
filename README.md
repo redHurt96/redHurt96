@@ -16,4 +16,3 @@ During 5 of those years, I worked at companies such as Rhinotales, LastLevel, Ga
 For almost a year, I created and managed my own hyper-casual game studio. <br/>
 I have also been freelancing, working on projects for museums and exhibitions, including PC, VR, and AR solutions. <br/>
 I'm actively involved in mentoring and helping aspiring and current professionals break into the industry, find their first job, and build their careers. <br/>
-I maintain a <a href="https://t.me/GamedevForge"><img/>personal blog</a>  about game development and a career in game development.
