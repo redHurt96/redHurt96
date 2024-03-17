@@ -1,5 +1,5 @@
 <h1 align="center">
-  Mikhail Kolobov - @redHurt96
+  Mikhail Kolobov
   &#8287;
 </h3>
 
