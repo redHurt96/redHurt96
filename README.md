@@ -1,5 +1,5 @@
 <h1 align="center">
-  Mikhail Kolobov
+  Mikhail Kolobov | GamedevForge
   &#8287;
 </h3>
 
@@ -16,3 +16,4 @@ During 5 of those years, I worked at companies such as Rhinotales, LastLevel, Ga
 For almost a year, I created and managed my own hyper-casual game studio. <br/>
 I have also been freelancing, working on projects for museums and exhibitions, including PC, VR, and AR solutions. <br/>
 I'm actively involved in mentoring and helping aspiring and current professionals break into the industry, find their first job, and build their careers. <br/>
+I run a [blog about game development](https://t.me/GamedevForge) and also [provide mentorship](https://teletype.in/@redhurt/mentoring), helping aspiring professionals enter the industry and assisting established ones in advancing their careers.
