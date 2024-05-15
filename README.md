@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/@MikhailKolobovGamedevForge"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-## About me:
+## Обо мне:
 
 
 Я занимаюсь разработкой игр уже более 7 лет. <br/>
